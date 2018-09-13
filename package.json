@@ -1,0 +1,28 @@
+{
+  "name": "sales-admin-server",
+  "version": "1.0.0",
+  "description": "server for sales admin",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pojok-webdev/sales-admin-server.git"
+  },
+  "keywords": [
+    "server",
+    "sales",
+    "admin"
+  ],
+  "author": "puji w prayitno",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pojok-webdev/sales-admin-server/issues"
+  },
+  "homepage": "https://github.com/pojok-webdev/sales-admin-server#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3"
+  }
+}
